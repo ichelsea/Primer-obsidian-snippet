@@ -17,4 +17,4 @@ This is a CSS snippet for Obsidian to use primer markdown styling in preview mod
 ## Caveats
 - Right now this snippet only works in Obsidian's light mode. 
 - The editing mode remains untouched in this version.
-- Obsidian snippets only read css, so if you want to use the `.scss` file to make updates you'll have to use a compiler. Any updates published will be compiled to the `.css` file here in this repo for use
+- Obsidian snippets only read `css` files, so if you want to use the `.scss` file to make updates you'll have to use a compiler. Any updates published will be compiled to the `.css` file here in this repo.
